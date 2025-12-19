@@ -10,10 +10,7 @@
 
 <details> 
 
-![alt text](https://github.com/Sayward-k8/sflt-hw-02/blob/main/img/133434.png)
-![alt text](https://github.com/Sayward-k8/sflt-hw-02/blob/main/img/1.2343.png)
-
-[haproxy.cfg](https://github.com/Sayward-k8/sflt-hw-03/blob/main/1/haproxy.conf)
+![alt text](https://github.com/Sayward-k8/sflt-hw-03/blob/main/img/1.png)
 
 </details> 
 
@@ -28,10 +25,15 @@
 
 <details> 
 
-![alt text](https://github.com/Sayward-k8/sflt-hw-02/blob/main/img/133434.png)
-![alt text](https://github.com/Sayward-k8/sflt-hw-02/blob/main/img/1.2343.png)
+![alt text](https://github.com/Sayward-k8/sflt-hw-03/blob/main/img/2.png)
+![alt text](https://github.com/Sayward-k8/sflt-hw-03/blob/main/img/2.1.png)
 
-[haproxy.cfg](https://github.com/Sayward-k8/sflt-hw-03/blob/main/1/haproxy.conf)
+Для проверки сделал настройку раз в 5 минут, а затем сделал по заданию на день
+![alt text](https://github.com/Sayward-k8/sflt-hw-03/blob/main/img/2.2.png)
+![alt text](https://github.com/Sayward-k8/sflt-hw-03/blob/main/img/2.3.png)
+
+[crontab](https://github.com/Sayward-k8/sflt-hw-03/blob/main/2/crontab)
+[test_backup.sh](https://github.com/Sayward-k8/sflt-hw-03/blob/main/2/test_backup.sh)
 
 </details> 
 
@@ -44,26 +46,8 @@
 
 <details> 
 
-![alt text](https://github.com/Sayward-k8/sflt-hw-02/blob/main/img/133434.png)
-![alt text](https://github.com/Sayward-k8/sflt-hw-02/blob/main/img/1.2343.png)
+![alt text](https://github.com/Sayward-k8/sflt-hw-03/blob/main/img/3.png)
+![alt text](https://github.com/Sayward-k8/sflt-hw-03/blob/main/img/3.1.png)
 
-[haproxy.cfg](https://github.com/Sayward-k8/sflt-hw-03/blob/main/1/haproxy.conf)
-
-</details> 
-
-# Задание 4*
-  1. Напишите скрипт, который будет производить инкрементное резервное копирование домашней директории пользователя с помощью rsync на другой сервер
-  2. Скрипт должен удалять старые резервные копии (сохранять только последние 5 штук)
-  3. Напишите скрипт управления резервными копиями, в нем можно выбрать резервную копию и данные восстановятся к состоянию на момент создания данной резервной копии.
-  4. На проверку направьте скрипт и скриншоты, демонстрирующие его работу в различных сценариях.
-
-# Решение 4
-
-<details> 
-
-![alt text](https://github.com/Sayward-k8/sflt-hw-02/blob/main/img/133434.png)
-![alt text](https://github.com/Sayward-k8/sflt-hw-02/blob/main/img/1.2343.png)
-
-[haproxy.cfg](https://github.com/Sayward-k8/sflt-hw-03/blob/main/1/haproxy.conf)
 
 </details> 
