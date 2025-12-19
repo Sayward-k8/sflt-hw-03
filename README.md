@@ -31,6 +31,8 @@
 Для проверки сделал настройку раз в 5 минут, а затем сделал по заданию на день
 ![alt text](https://github.com/Sayward-k8/sflt-hw-03/blob/main/img/2.2.png)
 ![alt text](https://github.com/Sayward-k8/sflt-hw-03/blob/main/img/2.3.png)
+![alt text](https://github.com/Sayward-k8/sflt-hw-03/blob/main/img/2.3.3.png)
+![alt text](https://github.com/Sayward-k8/sflt-hw-03/blob/main/img/2.3.4.png)
 
 [crontab](https://github.com/Sayward-k8/sflt-hw-03/blob/main/2/crontab)
 [test_backup.sh](https://github.com/Sayward-k8/sflt-hw-03/blob/main/2/test_backup.sh)
